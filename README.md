@@ -92,7 +92,7 @@ The threshold is set to get the highest specificity and sensitivity.
 It was set to 0.2 based on the ROC (Receiver operating characteristic)
 and grid search. Giving sensitivity about 0.925 and specificity 0.956. 
 #####ROC curve is shown below:
-<img src="ROCcurve.jpg?raw=true" width="200">
+<img src="ROCcurve.jpg?raw=true" width="480">
 
 ### Dataset
 The dataset was not published due to usage of own private images.
