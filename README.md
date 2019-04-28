@@ -23,8 +23,8 @@ Run the program `python main.py` and fallow the menu by choosing
 
 ### Architecture
 The neural network is based on 19 layers, where 13 layers 
-are convolutional layers with weights from VGG16 [1] model using transfer learning technique, 3 layers are 
-full connected layers, with batch normalisation applied before every layer.
+are convolutional layers with weights from VGG16 [1] model using transfer learning technique, three layers are 
+full connected layers, with batch normalization, applied before every layer.
 
 #### Model
 <pre>
